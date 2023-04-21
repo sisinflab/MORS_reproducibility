@@ -36,3 +36,14 @@ $ python -u {modelname}.py
 where {modelname} is one of the following: ```Caser```, ```CaserSMORL```, ```GRU```, ```GRUSMORL```, ```NexItNet```, ```NextItNetSMORL```, ```SASRec```, ```SASRecSMORL```.
 
 In these files, you should change the datasets name in the ```Args``` class. Please, you should use ```rc15``` for the RC 15 dataset, while ```retail_rocket``` for the Retailrocket dataset. You will find the results in the corresponding folder within the _div4rec_ directory.
+
+## my_sir_elliot Project
+
+This project contains an ad-hoc version of the Elliot framework. For more details, please refer to its official [documentation](https://elliot.readthedocs.io/en/latest/).
+
+With this project, you reproduce the performance in terms of Bias Disparity, PopRSP, and PopREO. To do this, you may run the following command:
+
+```
+$ python -u start_experiments.py
+```
+In this file, you should select one line between lines 9 and 10 at your convenience to obtain the results on RC 15 and Retailrocket datasets, respectively. You will find the results in _results/{dataset}/performance_ folder.
