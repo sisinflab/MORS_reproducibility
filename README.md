@@ -1,6 +1,6 @@
 # Reproducibility of Multi-Objective Reinforcement Learning Recommendation: Interplay between Effectiveness and Beyond-Accuracy Perspectives
 This repository refers to source codes and datasets of the reproducibility study _Reproducibility of Multi-Objective Reinforcement Learning Recommendation:
-Interplay between Effectiveness and Beyond-Accuracy Perspectives_ submitted to The 17th ACM Recommender Systems Conference (RecSys 2023).
+Interplay between Effectiveness and Beyond-Accuracy Perspectives_ accepted as *Reproducibility Paper* at The 17th ACM Recommender Systems Conference (RecSys 2023).
 
 Due to the size limits of GitHub, we load the files at this [link](https://drive.google.com/file/d/1L40DnK4N9_iR0tXtGLWpXW6QfGcoUZVI/view?usp=share_link). This link contains two folders:
 
